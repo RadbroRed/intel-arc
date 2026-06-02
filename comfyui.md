@@ -6,4 +6,4 @@ ComfyUI
 - --split-cross-attention flag it
 
 Memory flow is HDD -> RAM (/swap overflow)-> VRAM
--Set your swap to like 40gb
+- Set your swap to like 40gb
